@@ -1,0 +1,26 @@
+---
+title: "Past Work"
+title-block-banner: images/about-header.png
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
+
+
+
+
+![Caption for the picture.](/path/to/image.png)
+##UAV Field Technician - University of Florida
+###*January 2022 - June 2022*
+* Flew daily DJI Inspire and Wingtra flights to catalogue nesting success in Everglades
+* Conducted monthly aerial surveys by fixed-wing aircraft to identify small wading bird colonies
+* Monitored 10 wading bird colonies weekly by checking nests along a transect
+* Navigated through Everglades while driving airboats (100 hours accumulated)
+* Identified wading birds in colony photos and counted individual nests in Photoshop
+
