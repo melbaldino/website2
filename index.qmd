@@ -8,10 +8,5 @@ about:
 linkcolor: blue 
 ---
 
-
-
 Mel (she/they) is a PhD student at the University of California, Berkeley in the Environmental Science, Policy, and Management. As a member of Dr. Iryna Dronova's lab, she studies the impacts of carbon sequestration focused wetland restoration on other aspects of the wetland health and function. Using field surveys, drone flights, audio recordings, and satellite imagery, they investigate avian biodiversity, environmental heterogeneity, succession, and productivity in the Sacramento San Joaquin Delta. 
 
-```{r, echo=FALSE}
-
-```
