@@ -11,3 +11,33 @@ include-in-header:
       }
       </style>
 ---
+
+# Teaching Philosophy
+
+
+# Teaching CV
+##Graduate Student Instructor - University of California, Berkeley	       
+### *August - December 2023*
+### Course: Ecological Analysis
+* Provided instruction on use of ArcGIS and Excel for landscape ecology/urban planning studies
+* Responsible for teaching and grading the work of 50 students
+* Held weekly office hours to troubleshoot ArcGIS difficulties
+
+## Long-term Substitute Teacher - LiFT Academy, Seminole, FL 	     
+### *February 2023 - May 2023*
+* Subbed in all classes from kindergarten to high school
+* Created practical learning plans for students who struggled with telling time, counting money, and being aware of their space 
+* Long-term duties included creating curriculum for high school math, religion, and english classes and adapting my curriculum to fit each student’s needs as neurologically diverse
+
+## Student-Athlete Tutor - Duke University Athletics Department	   
+### *September 2018 - May 2020*
+* Explained complex concepts in introductory Spanish, Chemistry, and Environmental Science
+* Provided outside resources to assist in the learning process of students 
+* Coordinated schedules with student-athletes to provide weekly sessions 
+
+## Study Buddies - Founder and Past President - Seminole, FL		          
+### *May 2014 - June 2016*
+* Recruited tutors from local high schools to volunteer at LiFT Academy
+* Scheduled tutoring sessions for 30 tutors & 15 students with neurological diversity
+* Tutored twice a week at LiFT Academy
+
