@@ -114,4 +114,14 @@ include-in-header:
 * Searched dung piles thoroughly to retrieve seed models from 120 individual dung piles and marked GPS location to estimate GPT and seed dispersal distances
 * Assisted in design and development of GPT and seed shadow calculation and visualization code
 
-## 
+## Undergraduate Research Associate - Rausher Lab - Duke University
+### *October 2016- May 2018*
+* Executed PCRs and gel electrophoresis on *Ipomoea lacunosa* and *Ipomoea cordatotriloba* DNA specific to nectar to locate points of similarity and analyze evolutionary speciation
+* Managed two experimental growth rooms with 1400 *Ipomoea* individual specimen
+* Conducted pollen count experiments under microscope 
+
+## DukeEngage Costa Rica - Monteverde Institute, CR			  	     
+### *June - August 2017*     
+* Designed 14-point protocol for rapid assessment of tropical forest integrity and development in reforested areas to determine impacts of reforestation efforts
+* Conducted verbal surveys in spanish with farmers on their interest in free reforestation services
+* Planted 3000+ trees in fincas to create habitat for endemic species 
