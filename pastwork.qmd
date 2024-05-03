@@ -12,8 +12,28 @@ include-in-header:
       </style>
 ---
 
+![Caption for the picture.](/path/to/image.png)
+##Drone Pilot - Louisiana State University
+### *November 2022 - April 2023*
+* Flew DJI Matrice 300 RTK flights to collect footage of wetland use by ducks and water birds
+* Identified Arkansas waterbird species and ducks while flying
+* Trained classifier in Darwin V7 to identify key species in forests & wetlands from drone images
+* Created photogrammetry maps for stakeholders interested in how ducks used their land
 
+![Caption for the picture.](/path/to/image.png)
+###Drone Pilot - North Dakota State University</h2>
+### *Aug 2021 - Oct 2021, Aug 2022 - Oct 2022*
+* Flew 90 DJI Mavic Pro 2 and DJI Mavic Air 2 flights to monitor blackbird behavior on farms
+* Assembled and loaded pesticide spraying drone (DJI Agras MG-1S) in the field
+* Identified local nesting birds and migratory raptors
+* Estimated sunflower crop damage created by the blackbird flocks
 
+![Caption for the picture.](/path/to/image.png)
+## Drone Pilot/Commercial Fisherman - Vitamin Sea, Maine</h2>
+### *July 2022 - August 2022*
+* Launched DJI Mavic Air 2 from boat to identify areas of high seaweed concentration
+* Created informational videos to advertise benefits of sustainable seaweed harvesting
+* Identified 10 types of native growing seaweed on the coasts of Maine for harvest
 
 ![Caption for the picture.](/path/to/image.png)
 ##UAV Field Technician - University of Florida
@@ -24,3 +44,74 @@ include-in-header:
 * Navigated through Everglades while driving airboats (100 hours accumulated)
 * Identified wading birds in colony photos and counted individual nests in Photoshop
 
+![Caption for the picture.](/path/to/image.png)
+## Wildlife/Habitat Songbird Technician - Oregon State University</h2>
+### *April 2021 - June 2021*
+* Identified sagebrush obligate songbirds by calls, songs, and visual cues during point counts
+* Conducted nest searching and monitoring during the breeding season
+* Sampled and identified local vegetation species inside and outside of grazed pastures
+* Set camera traps and iButtons in and around nests to monitor predator presence
+* Trained Kaleidoscope advanced classifier to identify over 10 species of bird calls in local plots
+ 
+## Research Assistant - National Oceanic and Atmopsheric Administration
+### *December 2020 - March 2021*
+* Identified live/bleached corals in photo surveys and estimated live coral area using CPCe 4.0
+* Managed coral out plant database using Microsoft Access
+* Input coral nursery and out plant data into database
+
+![Caption for the picture.](/path/to/image.png)
+## Fishery Technician II - Prince William Sound Aquaculture Corporation, Alaska
+### *August 2020 - October 2020*
+* Assisted in the execution of pink salmon egg take at Cannery Creek Hatchery
+* Quickly identified sex of pink salmon by sight before sorting them to be spawned or bucked
+* Carefully removed eggs from hens before fertilizing them using bucks
+* Removed bad eggs and outside materials before eggs entered an incubator to optimize survival
+* Seined the approach channel to obtain bucks and hens that would not swim up river
+
+![Caption for the picture.](/path/to/image.png)
+## Rachel Carson Scholar - Duke University, NC
+### *October 2018 - May 2020*
+* Modeled the carbon sequestration potential of oyster aquaculture in the United States
+* Compared aquaculture sequestration to other offsets in the California Cap and Trade System
+* Participated in biweekly professional development meetings
+
+![Caption for the picture.](/path/to/image.png)
+## Field Research Assistant - Duke University, NC
+### **Bass Connections: Oyster Reef Health**
+### *August 2020 - October 2020* 
+* Classify and catalogue invertebrates in oyster reef samples
+* Quantify oyster size classes and clump sizes represented in oyster reef samples
+* Deployed ARMs around sampling sites to assess sessile community structure and development
+* Conducted spatial surveys and traditional ecological surveys in Beaufort, NC
+
+![Caption for the picture.](/path/to/image.png)
+## Summer Student Fellow - Woods Hole Oceanographic Institute, MA
+### *May 2019 - August 2019*
+* Crafted habitat-specific potential food webs for a fully functioning commercial seaweed farm
+* Theoretically modeled and quantified ecosystem services provided by seaweed farms
+* Delivered a speed talk and poster session
+* Presented this work at AGU Ocean Sciences Meeting in February 2020
+
+![Caption for the picture.](/path/to/image.png)
+## Research Student - University of Queensland Research Station, Heron Island, AU
+### *March 2019*
+* Designed threat assessment protocol for shrimp gobies in Shark Bay
+* Spent 5 hours in the water per day measuring threat responses of individual goby burrows
+* Delivered a speed talk and paper presentation
+
+## Data Processor - Duke Marine Robotics & Remote Sensing Lab, NC
+### *January - May 2019*
+* Designed threat assessment protocol for shrimp gobies in Shark Bay
+* Spent 5 hours in the water per day measuring threat responses of individual goby burrows
+* Delivered a speed talk and paper presentation
+
+![Caption for the picture.](/path/to/image.png)
+## Field and Research Assistant - Makokou, Gabon
+### **Poulsen Lab, Duke University, NC**
+### *March 2018 - May 2019*
+* Designed and executed 15 elephant baiting trials in Ivindo National Park, Gabon over 10 weeks
+* Followed collared elephants on three 10-day follows through Ivindo National Park
+* Searched dung piles thoroughly to retrieve seed models from 120 individual dung piles and marked GPS location to estimate GPT and seed dispersal distances
+* Assisted in design and development of GPT and seed shadow calculation and visualization code
+
+## 
