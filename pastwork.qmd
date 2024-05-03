@@ -1,6 +1,6 @@
 ---
 title: "Past Work"
-title-block-banner: images/about-header.png
+title-block-banner: images/DSC08097.jpeg
 title-block-banner-color: white
 include-in-header:
   - text: |
