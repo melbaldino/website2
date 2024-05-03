@@ -1,15 +1,13 @@
 ---
-title: "Daniela Rodriguez-Chavez"
-subtitle: "PhD Candidate in the Environmental, Policy, & Management program at UC Berkeley"
+title: "Mel Baldino"
+subtitle: "Drones, Restoration Ecology, Wetlands"
 image: images/profile.png
 about:
   template: jolla
-linkcolor: green 
+linkcolor: blue 
 ---
 
-Hello! My name is Daniela and I am a [NSF Graduate Research](https://www.nsfgrfp.org/about/about-grfp/) & Chancellor's Fellow at UC Berkeley in both the [de Valpine](https://nature.berkeley.edu/~pdevalpine/#about) and [Boettiger](https://www.carlboettiger.info) labs. I'm really interested in infectious disease modeling and I plan to use this time to develop skills in statistical, computational, and mathematical modeling.
-
-On this site you'll get to know a little bit more [about me](about.qmd), the [research](research.qmd) I've done (and am currently doing), and some of my [community work](community.qmd). Because I am currently learning a lot of material on my own, I also intend to provide some [write-ups](stat-blog.qmd) in case that they are useful to anybody. Outside of academia, I enjoy spending my time in the world of [musical theater](music-theater.qmd) and I'm always happy to catch a show with someone new!
+Mel (she/they) is a PhD student at the University of California, Berkeley in the Environmental Science, Policy, and Management. As a member of Dr. Iryna Dronova's lab, she studies the impacts of carbon sequestration focused wetland restoration on other aspects of the wetland health and function. Using field surveys, drone flights, audio recordings, and satellite imagery, they investigate avian biodiversity, environmental heterogeneity, succession, and productivity in the Sacramento San Joaquin Delta. 
 
 ```{r, echo=FALSE}
 

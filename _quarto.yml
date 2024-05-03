@@ -6,8 +6,6 @@ website:
   title: "Mel Baldino"
   navbar:
     left:
-      - href: about.qmd
-        text: About Me
       - href: currentwork.qmd
         text: Current Research
       # - publications.qmd
