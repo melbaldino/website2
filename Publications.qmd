@@ -1,9 +1,24 @@
 ---
 title: "Publications"
+title-block-banner: images/about-header.png
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
 ---
+## Publications and Presentations										
+Beirne, Christopher, Nuñez, Chase L., **Baldino, Melissa**, Kim, Seokmin, Knorr, Julia, et al. Estimation of gut passage time of wild, free roaming forest elephants. Wildlife Biology 1 : 1-7. 2019 [link](https://bioone.org/journals/wildlife-biology/volume-2019/issue-1/wlb.00543/Estimation-of-gut-passage-time-of-wild-free-roaming-forest/10.2981/wlb.00543.full)
 
-About this site
+Poulsen JR, Beirne C, Rundel C, **Baldino M**, Kim S, Knorr J, et al. (2021) Long Distance Seed Dispersal by Forest Elephants. Front. Ecol. Evol. 9:789264. doi: 10.3389/fevo.2021.789264 
 
-```{r}
-1 + 1
-```
+“Quantifying Ecosystem Structure and Services Provided by Tropical Seaweed Farms” presented at Woods Hole Oceanographic Institute (summer 2019) and AGU’s Ocean Sciences Meeting (February 2020)
+
+## Science Communication											
+Baldino M. Interviewee. “Oceans episode 3: Marine policy.” Down To Earth: Cornell Conversations About… 2019 Nov. 6. https://anchor.fm/down-to-earth-cornell/episodes/Oceans-episode-3-Marine-policy-e8ri8n
+
+Baldino M. Co-host. “Local Communities and Ecotourism: Empowerment or disempowerment?” Seas The Day - Duke University Marine Lab. 2021 Feb. 2. https://open.spotify.com/episode/1nQjFXLkGWKLR8YO6SBCY1?si=chEGek4-SR2z2Dqf0Nu-Sw  
