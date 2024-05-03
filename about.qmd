@@ -1,0 +1,15 @@
+---
+title: " "
+linkcolor: green
+about:
+  template: trestles
+  image: images/research-2.png
+---
+
+Growing up, I always enjoyed math. It was fun to solve these puzzles and figure out what I can create with a set of given rules. In addition to this passion, I also enjoyed playing the piano, a requirement for many children of immigrant parents. By the time I entered high school, I had decided I was going to major in math and music... with no plan for what I would do after college. However, two crucial things happened my senior year: I took AP Environmental Science and I music directed a show for the first time.
+
+After taking APES, I knew that I had to combine math and environmental science somehow, but I wasn't sure how. **I took on a motto: "help someone or something, somewhere."** This led me on a 4-year journey into carbon cycle dynamics, oceanography, and population dynamics, until I ended up in the world infectious disease modeling. After music directing, I realized that this was how to keep my creative skills alive while being in community with others. I ditched the music major and doubled in mathematics and environmental science.
+
+Graduate school was not a clear step to me until my third year of college. As a child of Mexican immigrants, I rarely saw myself represented in the mentors and professors I had. Though I am eternally grateful to everyone that helped guide me down this path, I am really passionate about the communities I'm a part of and I hope to be the mentor that my younger self wanted.
+
+*Want to create your own free website? First [create a quarto website](https://quarto.org/docs/websites/) on RStudio, then create a git repository for your website. You then want to [connect the two](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#importing-a-git-repository-with-the-command-line) and make sure you can [publish it](https://quarto.org/docs/publishing/github-pages.html). Woohoo now you have your own free website!*

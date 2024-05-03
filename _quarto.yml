@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mel Baldino"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About Me
+      - href: research.qmd
+        text: Research
+      # - publications.qmd
+      - community.qmd
+      - text: "Resources"
+        menu: 
+          - href: gschool.qmd
+            text: Grad School
+          - href: stat-blog.qmd
+            text: Learn Statistics With Me
+      - href: music-theater.qmd
+        text: Musical Theater
+  page-footer: 
+    left: "Last updated April 2024" 
+    right: 
+      - icon: mailbox 
+        href: "mailto:drodriguezchavez@berkeley.edu"
+    
+
+format:
+  html:
+    theme: cosmo # flatly, yeti, solar, litera, 
+    embed-resources: true
+    css: styles.css
+    toc: true
+
+editor: visual
+

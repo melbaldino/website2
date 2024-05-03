@@ -1,0 +1,11 @@
+---
+title: "Learn Statistics With Me"
+listing: 
+  contents: 
+    - "stat-blog/*.qmd"
+  sort: "title desc"
+  type: table
+  sort-ui: false
+  fields: [title, date]
+page-layout: full
+---

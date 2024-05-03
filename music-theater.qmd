@@ -1,0 +1,15 @@
+---
+title: "Musical Theater"
+title-block-banner: images/musical-theater-2.png
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
+
+Musical theater!

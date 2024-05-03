@@ -1,0 +1,6 @@
+---
+title: "Maximum Likelihood"
+date: 04/30/2024
+---
+
+Maximum likelihood

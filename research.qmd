@@ -1,0 +1,48 @@
+---
+title: "Research"
+title-block-banner: images/about-header.png
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
+
+A classmate of mine in undergrad once told me that there are models that fit functions to data and then there are models that describe a theoretical framework but may not match data perfectly. The former by definition needs data while the latter can use data to corroborate theory. I am interested in gaining skills to do both of these!
+
+### Statistical Models 
+
+### Deterministic Models 
+
+$$ \begin{align}\frac{dS(t)}{dt} &= -\beta \frac{S(t)I(t)}{N} \\\frac{dI(t)}{dt} &= \beta \frac{S(t)I(t)}{N} - \gamma I(t)\\\frac{dR(t)}{dt} &= \gamma I(t)\end{align}$$
+
+```{r}
+library(deSolve)
+initial <- c(S = 99, I = 1, R = 0) # initial conditions 
+times <- 0:100 # time steps, 100 days
+params <- c(beta = 0.9, gamma = 0.5, N = 100) # model parameters 
+
+SIR <- function(t, y,  params){
+  with(as.list(c(params, y)), {
+    dS <- -beta * S * I / N 
+    dI <- beta * S * I / N - gamma * I
+    dR <- gamma * I
+    list(c(dS, dI, dR))
+  })
+}
+
+out.rk4 <- rk4(initial, times, SIR, params) 
+plot(out.rk4, ylim = c(0, 100), mfrow = NULL)
+```
+
+```{r}
+results <- rk4(initial, times, SIR, params)
+R0 <- 0.2 / 0.5 # beta / gamma 
+plot(0:100, results[,2]*R0/100, type = "l",
+     xlab = "time", ylab = "Effective reproductive number") + 
+  abline(h = 1, lty = 2)
+```
