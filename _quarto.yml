@@ -11,6 +11,8 @@ website:
       # - publications.qmd
       - href: pastwork.qmd
         text: Past Research
+      - href: teaching.qmd
+        text: Teaching
       - href: portfolio.qmd
         text: Portfolio
   page-footer: 

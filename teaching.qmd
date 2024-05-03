@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+title-block-banner: images/about-header.png
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
